@@ -18,15 +18,10 @@
             }
 
 
-     
-       h2{
-         
-              color: black;
-              whidth:100%;
-              
-              
-          }
-      
+
+      .one + .two  +three +.four + .four{
+              color:pink;
+      }
                         
 
 
