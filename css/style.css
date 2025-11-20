@@ -3,12 +3,10 @@
        h1{
          color: brown;
          font-size: 80px;
-         background-color: yellow
-              ;
+         background-color: yellow;
+              
        }
-      body{
-           /*  background-color: black;*/
-      }
+      
 
       div{
              width:100%;
