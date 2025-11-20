@@ -1,5 +1,6 @@
 
 
+
        h1{
          
               color: black;
@@ -26,6 +27,8 @@
        .one:nth-of-type(3) .four{
               color: pink;
        }
+       .one + .one + .one .four{
+                        color: pink;}
 
 
                         
