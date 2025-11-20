@@ -22,6 +22,12 @@
       .one + .two  + .three .four{
               color:pink;
       }
+
+       .one:nth-of-type(3).four{
+              color:pink;
+       }
+
+
                         
 
 
