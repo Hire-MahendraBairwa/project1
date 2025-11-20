@@ -1,12 +1,13 @@
 
 
        h1{
-         color: red;
+         color: brown;
          font-size: 80px;
-         background-color: pink;
+         background-color: yellow
+              ;
        }
       body{
-             background-color: black;
+           /*  background-color: black;*/
       }
 
       div{
