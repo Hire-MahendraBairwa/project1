@@ -10,28 +10,4 @@
           }
       
 
-      h2{
-             width:100%;
-             height:50%;
-             border:10px solid green;
-              margin:0px;
-             color:green;
-            }
-
-
-
-      .one + .two  + .three .four{
-              color:pink;
-      }
-
-       .one:nth-of-type(3) .four{
-              color: pink;
-       }
-       .one + .one + .one .four{
-                        color: pink;}
-
-
-                        
-
-
-
+     
