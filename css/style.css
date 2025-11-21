@@ -4,13 +4,13 @@
        h1{
          
               color: blue;
-              whidth:100%;
+              width:100%;
               
               
           }
 
     .firstdiv{
-              dispaly: flex;
+              display: flex;
        }
       
      .childDiv{
