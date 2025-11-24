@@ -19,7 +19,7 @@ h1{
  background-image:url("DSC_7434.JPG");
  background-size: cover;
 }
-@media(min-width: 567px){
+@media screen and(max-width: 567px){
  .firstdiv{
   flex-direction: column;
  }
