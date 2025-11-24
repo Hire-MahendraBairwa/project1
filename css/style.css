@@ -4,7 +4,7 @@ h1{
 }
 .firstdiv{
   display: flex;
-  height: 50%;
+  height: 100%;
 }
 
 .childDiv{
@@ -17,4 +17,10 @@ h1{
        
 .childDiv:nth-of-type(2){
  background-image:url("DSC_7434.JPG");
+ background-size: fit;
+}
+@media(max-width: 576px){
+ .firstdiv{
+  flex-direction:column;
+ }
 }
