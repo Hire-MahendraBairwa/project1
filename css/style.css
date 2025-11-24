@@ -3,7 +3,8 @@ h1{
  width:100%;
 }
 .firstdiv{
-  display: flex;
+  display: flex
+  height: 50%;
 }
 
 .childDiv{
