@@ -1,29 +1,19 @@
- 
+h1{         
+ color: blue;
+ width:100%;
+}
+.firstdiv{
+  display: flex;
+}
 
-
-       h1{
-         
-              color: blue;
-              width:100%;
-              
-              
-          }
-
-    .firstdiv{
-              display: flex;
-       }
-      
-     .childDiv{
-              width:50%;
-              height:100%;
-              color: white;
-            background-color:red;
-             border: 5px solid black;
-            
-     }
-       .childDiv:nth-of-type(2){
-              background-image:url("DSC_7434.JPG");
-        
-
-       }
-     
+.childDiv{
+  width:50%;
+  height:100%;
+  color: white;
+  background-color:red;
+  border: 5px solid black;
+}
+       
+.childDiv:nth-of-type(2){
+ background-image:url("DSC_7434.JPG");
+}
