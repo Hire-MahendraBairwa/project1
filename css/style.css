@@ -1,18 +1,18 @@
 
 .header{
   display: flex;
-  height: 100%;
- width:50%;
+  height: 10%;
+ width:100%;
   background-color:green;
 }
 .logo{
   width:25;
-  background:green;
+  background-color:green;
 }
 
 .menu{
   width:75;
-  background:blue;
+  background-color:blue;
 }
 @media (max-width: 567px){
  .firstdiv{
