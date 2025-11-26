@@ -5,6 +5,7 @@ h1{
 .firstdiv{
   display: flex;
   height: 100%;
+ width:50%;
 }
 
 .childDiv{
