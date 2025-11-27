@@ -4,6 +4,15 @@
  background-color:green;
 }
 
+.logo{
+ width:25%;
+ background-color:pink;
+}
+.menu{
+ width:75%;
+ background-color:blue;
+}
+
 @media (max-width: 567px){
  .firstdiv{
   flex-direction: column;
