@@ -23,7 +23,7 @@
  width:75%;
  background-color:blue;
 display:flex;
- text-color:black;
+ text-color:white;
 }
 
 .navbar ul{
@@ -34,7 +34,7 @@ display:flex;
 }
 .navbar ul li a{
  text-decoration:none;
- color:black;
+ 
 }
 @media (max-width: 567px){
  .firstdiv{
