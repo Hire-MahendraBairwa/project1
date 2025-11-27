@@ -31,12 +31,12 @@
    display:flex;
    text-decoration:none;
    list-style:none;
-    gap:40px;
     justify-content:space-around;
  
 }
 .navbar ul li a{
  text-decoration:none;
+ color:white;
  
 }
 @media (max-width: 567px){
