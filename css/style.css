@@ -23,12 +23,18 @@
  width:75%;
  background-color:blue;
 display:flex;
+ text-color:black;
 }
 
-.navbar{
-   color:black;
+.navbar ul{
+   display:flex;
+   text-decoration:none;
+   list-style:none;
+ 
 }
-
+.navbar ul li a{
+ text-decoration:none;
+}
 @media (max-width: 567px){
  .firstdiv{
   flex-direction: column;
