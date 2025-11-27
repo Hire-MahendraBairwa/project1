@@ -22,12 +22,10 @@
 .menu{
  width:75%;
  background-color:blue;
- 
+display:flex;
 }
-.navbar {
- display:flex;
-}
-.menu a{
+
+.navbar{
    color:black;
 }
 
