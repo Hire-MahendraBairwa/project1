@@ -24,7 +24,7 @@
  background-color:blue;
  
 }
-.navbar a{
+.navbar {
  display:flex;
 }
 .menu a{
