@@ -31,7 +31,8 @@
    display:flex;
    text-decoration:none;
    list-style:none;
-  gap:40px;
+  justify-content:space-around;
+  width:100%;
    }
 .navbar ul li a{
  text-decoration:none;
