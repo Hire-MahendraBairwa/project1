@@ -23,6 +23,9 @@
  width:75%;
  background-color:blue;
 }
+.menu a{
+   color:black;
+}
 
 @media (max-width: 567px){
  .firstdiv{
