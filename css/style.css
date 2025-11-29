@@ -38,6 +38,7 @@
    text-decoration:none;
    list-style:none;
   justify-content:space-around;
+  overflow-wrap:break-word;
   
    }
 .navbar ul li a{
