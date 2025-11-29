@@ -41,8 +41,8 @@
    list-style:none;
   justify-content:space-around;
  position: fixed;
-  top: 20px; 
-  left: 20px; 
+  top: auto; 
+  left: auto; 
 
    }
 .navbar ul li a{
