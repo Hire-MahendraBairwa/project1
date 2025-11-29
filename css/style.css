@@ -29,11 +29,9 @@
  background-color:blue;
   display:flex;
  text-align:center;
- text-color:white;
- position:fixed;
 }
 .navbar {
-    width:100%;
+    width:100%
 }
 .navbar ul{
    display:flex;
