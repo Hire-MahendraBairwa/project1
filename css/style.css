@@ -40,9 +40,7 @@
    text-decoration:none;
    list-style:none;
   justify-content:space-around;
-flex_direction:row;
- 
-  
+position: fixed;
    }
 .navbar ul li a{
  text-decoration:none;
