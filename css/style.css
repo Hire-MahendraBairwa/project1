@@ -40,13 +40,14 @@
    text-decoration:none;
    list-style:none;
   justify-content:space-around;
-
+  position:fiexd;
   
 
    }
 .navbar ul li a{
  text-decoration:none;
  color:black;
+ font-size:1.5em;
   
 }
 @media (max-width: 567px){
