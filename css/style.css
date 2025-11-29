@@ -32,7 +32,7 @@
 }
 .navbar {
     width:100%;
-  
+  position: fixed;
  
 }
 .navbar ul{
@@ -40,7 +40,7 @@
    text-decoration:none;
    list-style:none;
   justify-content:space-around;
-position: fixed;
+
    }
 .navbar ul li a{
  text-decoration:none;
