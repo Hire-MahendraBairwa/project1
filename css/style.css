@@ -41,14 +41,14 @@
    list-style:none;
   justify-content:space-around;
  
- position: fixed;
+
   
 
    }
 .navbar ul li a{
  text-decoration:none;
  color:black;
- font-size:1.5em;
+
   
 }
 @media (max-width: 567px){
