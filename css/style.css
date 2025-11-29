@@ -30,6 +30,7 @@
   display:flex;
  text-align:center;
  text-color:white;
+ position:fixed;
 }
 .navbar {
     width:100%;
