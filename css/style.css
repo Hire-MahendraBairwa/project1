@@ -40,7 +40,7 @@
    text-decoration:none;
    list-style:none;
   justify-content:space-around;
- word-wrap: break-word;
+flex_direction:row;
  
   
    }
